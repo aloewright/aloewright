@@ -8,25 +8,26 @@ My name is Aloe, and I'm a **creative technologist** hailing from the SF Bay Are
 
 ## Tech Stack
 
-I spend most of my time in **Cursor with Claude** 🪩 coding with:
+I spend most of my time in **Warp** or **Cursor with Claude** 🪩 coding with:
 
 ### Frontend & Mobile ☎️
 - **React** + **Expo**
 - **Next.js**
 - **TypeScript**
 - **TailwindCSS**
-- **Shadcn UI**
+- **Shadcn UI**, **Gluestack UI**
 
 ### Backend & Databases
+- **Node.js**
 - **Python**
 - **Supabase**
 - **MongoDB**
 - **PostgreSQL**
 
 ### Design & Cloud ☁️
-- **Figma** / **Adobe Creative Suite**
-- **Cloudflare**
-- **Google Cloud**
+- **Figma**, **Adobe Creative Suite**
+- **Cloudflare**, **AWS**, **Encore**
+- **Google Cloud**, **Render**, **Digital Ocean**
 - **Kubernetes**
 
 ## Let's Connect 
