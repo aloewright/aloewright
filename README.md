@@ -5,6 +5,11 @@ My name is Aloe, and I'm a **creative technologist** hailing from the SF Bay Are
 
 I spend most of my time in **Warp** ꩜ coding with:
 
+### Currently Learning
+- Fresh, Deno, Rust, Prisma, Deno Deploy & Subhosting with Kinde Authentication
+- npm package creation and dependency management
+- monorepos using rust backend for speed and reliability
+
 ### Tech Stack
 - 📲 **React Native** + **Expo**, **Gluestack UI**
 - 🌐 **React** + **Next.js**, **TypeScript**, **TailwindCSS**, **Motion**, GSAP
