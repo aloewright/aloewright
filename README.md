@@ -1,22 +1,15 @@
 🌱
 
 ## About Me
-My name is Aloe, and I'm a **creative technologist** hailing from the SF Bay Area. With experience across a variety of industries, I've worked at big companies like **Google** and startups like **Reddit**. Originally, I graduated with a degree in theater from **UCLA**. Since then I've sought to help people connect to the things they care about the most by building innovative products that seamlessly coalesce with a consumer's narrative about whom they are and how they define themselves in the world. When I'm not building, you'll find me exploring the green **PNW** with my corgi **Milkshake** 🐕 Feel free to reach out about any open source projects or research opportunities 😊 
+My name is Aloe, and I'm a **creative technologist** originally hailing from the SF Bay Area. A **UCLA** alum, I've worked at big companies (**Google**), startups (**Reddit**), and everything in between. My goal is to help people connect to the things that matter most to them by building new experiences. When not working, you can find me exploring the green **PNW** with my corgi **Milkshake** 🐕 Feel free to reach out about any open source projects or research you're passionate about 😊 
 
-I spend most of my time in **Warp** ꩜ coding with:
-
-### Currently Learning
-- Fresh, Deno, Rust, Prisma, Deno Deploy & Subhosting with Kinde Authentication
-- npm package creation and dependency management
-- monorepos using rust backend for speed and reliability
-
-### Tech Stack
-- 📲 **React Native** + **Expo**, **Gluestack UI**
-- 🌐 **React** + **Next.js**, **TypeScript**, **TailwindCSS**, **Motion**, GSAP
-- **Node.js**, Deno, Python, Rust
-- **Supabase**, **MongoDB**, **Firebase**, **Parade DB**
-- **Figma**, **Adobe Creative Suite**
-- **Cloudflare**, **AWS**, **Render**, **Vercel**, **Netlify**, **Google Cloud Platform**, **Digital Ocean**, **Render**, **Railway**... ☁️
+### Typical Tech Stack
+- 🌐 **React**, **Next.js**, **TypeScript**, **TailwindCSS**, **Node.js**, **Rust**
+- 🤖 **Claude AI**, **Cloudflare Workers AI & AI Gateway**
+- 🎨 **Figma**, **Adobe Creative Suite**
+- ☁️ **Cloudflare Full Stack**, **Google Cloud Platform**
+  
+  <img src="https://developers.cloudflare.com/_astro/developer-platform.g69XQgmR_2k3mC0.svg">
 
 ## Let's Connect 
 
