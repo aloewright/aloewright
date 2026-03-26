@@ -5,7 +5,7 @@ My name is Aloe, and I'm a **creative technologist** originally hailing from the
 
 ### Typical Tech Stack
 - 🌐 **React/Next**, **TypeScript**, **TailwindCSS**
-- 🖥️ **Node.js**, **Rust**, Capacitor/Expo for multiplatform
+- 🖥️ **Node.js**, **Rust**, Capacitor/Expo
 - 🤖 **Claude AI**, **Cloudflare Workers AI**
 - 🎨 Photo/Video, **Adobe Creative Suite** 
 - ☁️ **Cloudflare Full Stack**
