@@ -13,7 +13,7 @@ My name is Aloe, and I'm a **creative technologist** originally hailing from the
 
 ## Let's Connect 
 
-- 🌐 **Links**: [aloewright.com](https://aloewright.com)
+- 🌐 **Links**: [aloewright.com](https://aloewright.me)
 - 💼 **LinkedIn**: [in/aloewright](https://linkedin.com/in/aloewright)
 
 ---
