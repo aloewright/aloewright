@@ -1,6 +1,6 @@
 🌱
 
-# TL;DR (update June 2026)
+# TL;DR (updated June 2026)
   🏴‍☠️ ~4k contributions in the last year
   🤖 Built over 39 microservices for clients and currently on my 3rd company-wide AI integration overhaul. 
   🦀 Strong preference toward Rust, Typescript, Node, Cloudflare, Google Cloud, Anthropic/OpenAI, and custom solutions.
